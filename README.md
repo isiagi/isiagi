@@ -6,11 +6,11 @@
 Here are some ideas to get you started: -->
 
 - # 💫About Me :
-- 🔭 I’m currently working on domain selling website with Reactjs
+- 🔭 I’m currently learning Cloud Development using AWS.
 - 🌱 I’m currently learning data science with Python
 - 👯 I’m looking to collaborate on any open source project
 - 🤔 I’m looking for help with machine learning 
-- 💬 Ask me about tech, web development and data science
+- 💬 Ask me about tech, web development, Cloud-Serverless and data science
 - 📫 How to reach me: Email - isiagigeofrey0@gmail.com
 
 ## 🌐Socials
