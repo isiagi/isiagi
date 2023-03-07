@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 - # 💫About Me :
 - 🔭 I’m currently learning Cloud Development using AWS.
-- 🌱 I’m currently learning data science with Python
+- 🌱 I’m currently looking for fullstack Web / Cloud developer roles.
 - 👯 I’m looking to collaborate on any open source project
 - 🤔 I’m looking for help with machine learning 
 - 💬 Ask me about tech, web development, Cloud-Serverless and data science
